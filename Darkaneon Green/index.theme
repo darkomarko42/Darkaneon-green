@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Darkaneon Green
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Darkaneon Green
+MetacityTheme=Darkaneon Green
+IconTheme=Luna-Dark
+CursorTheme=Luna
+CursorSize=24
